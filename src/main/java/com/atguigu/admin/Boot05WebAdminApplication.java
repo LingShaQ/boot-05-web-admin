@@ -12,6 +12,7 @@ public class Boot05WebAdminApplication {
         SpringApplication.run(Boot05WebAdminApplication.class, args);
         System.out.println("hello,git!");
         System.out.println("Sss");
+        System.out.println("hahahaaha");
     }
 
 }
