@@ -16,6 +16,7 @@ public class Boot05WebAdminApplication {
         System.out.println("hello ,hot-fix");
         System.out.println("hello ,master test");
         System.out.println("hello ,hot-fix test2");
+        System.out.println("github pull");
     }
 
 }
