@@ -14,6 +14,7 @@ public class Boot05WebAdminApplication {
         System.out.println("Sss");
         System.out.println("hahahaaha");
         System.out.println("hello ,hot-fix");
+        System.out.println("hello ,master test");
     }
 
 }
